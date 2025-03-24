@@ -1,0 +1,32 @@
+
+Æ
+java:S1598"¯This file "Latihan.java" should be located in "id\hds\exercise" directory, not in "C:\Data\Course\hackerank\src\main\java\id.hds.exercise"(Do not use dots in directory names).(ëØÉú
+P
+java:S1854."5Remove this useless assignment to local variable "s".(¿ò¾Øùÿÿÿÿ
+V
+java:S1854";Remove this useless assignment to local variable "scanner".(ù ƒ‘üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¬§™…øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(Éð”èúÿÿÿÿ
+G
+java:S1481",Remove this unused "scanner" local variable.(ù ƒ‘üÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¹¬½üüÿÿÿÿ
+@	java:S1064"+Replace this use of System.out by a logger.(íÿ¹
+@	java:S1065"+Replace this use of System.out by a logger.(ÔêÙ÷
+@	java:S1066"+Replace this use of System.out by a logger.(íÛ×
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+9
+java:S1128"$Remove this unused import 'java.io'.(¬›ãD
+<
+java:S1128"&Remove this unused import 'java.math'.(âî©
+@
+java:S1128"*Remove this unused import 'java.security'.(èÛò§
+<
+java:S1128"&Remove this unused import 'java.text'.(ë¼Èí
+<
+java:S1128"&Remove this unused import 'java.util'.(Î€ŒÙ
+F
+java:S1128	"1Remove this unused import 'java.util.concurrent'.(íÐ¢6
+B
+java:S1128
+",Remove this unused import 'java.util.regex'.(£‘¬Þ

@@ -1,0 +1,8 @@
+
+Ù
+java:S1598"»This file "JavaOutputFormating.java" should be located in "id\hds\exercise" directory, not in "C:\Data\Course\hackerank\src\main\java\id.hds.exercise"(Do not use dots in directory names).(ëØÉú8ÛÌóÉù1
+G	java:S106"+Replace this use of System.out by a logger.(‹ñõ’8ÍóÉù1
+f
+java:S3358"DExtract this nested ternary operation into an independent statement.(­³Îœøÿÿÿÿ8ÍóÉù1
+G	java:S106"+Replace this use of System.out by a logger.(³ÿÄº8ÍóÉù1
+G	java:S106!"+Replace this use of System.out by a logger.(‹ñõ’8ÍóÉù1
